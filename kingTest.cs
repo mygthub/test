@@ -1,4 +1,4 @@
-#include namespace std;
+#include namespace iostream;
 
 int main()
 {
